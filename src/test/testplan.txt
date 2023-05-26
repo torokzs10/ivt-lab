@@ -1,0 +1,5 @@
+1. SINGLE mode - first time, both are empty
+2. SINGLE mode - first time, primary is empty
+3. SINGLE mode - primary was fired last, secondary is empty
+4. SINGLE mode - primary was fired last, both are empty
+5. ALL mode - secondary is empty
